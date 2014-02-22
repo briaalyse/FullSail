@@ -11,4 +11,4 @@ if(adobeKnowledge > 50){
 	(adobeKnowledge < minKnowledge && guideToAdobe = degree) console.log("you will do okay, but you will need much practice")
 
 }
-(adobeKnowledge > minKnowledge) ? console.log("")
+(adobeKnowledge > minKnowledge) ? console.log("You will be a good web designer") : console.log("You need a lot more practice in order to reach your goal.")
