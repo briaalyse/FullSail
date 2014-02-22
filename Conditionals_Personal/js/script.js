@@ -14,5 +14,3 @@ if(teenAge > minAge){
 	console.log ("if you have your permit, you can take the driving test.")
 	
 } 
-(teenAge < 18) ? console.log("you can take the driving test!") : console.log("you are not of age to obtain your license.")
-	
