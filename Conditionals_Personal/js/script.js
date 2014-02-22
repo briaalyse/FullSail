@@ -9,8 +9,10 @@ var permitTest = passed
 if(teenAge > minAge){
 	//code performed if condition is true.
 	console.log("You may take the driving test!");
-}else if{ (teenAge > wPermitAge && permitTest = passed) {
+}else if (teenAge > wPermitAge && permitTest = passed) {
 	//you can take the test if you have your permit
 	console.log ("if you have your permit, you can take the driving test.")
 	
 } 
+(teenAge < 18) ? console.log("you can take the driving test!") : console.log("you are not of age to obtain your license.")
+	
