@@ -1,18 +1,13 @@
-// Personal Conditional
+//Conditonals Personal
 
-var teenAge = 19;
-var minAge = 18;
-var wPermitAge = 16
-var permitTest = passed
+var moisturizeSkin = true
+var deepMoisturizer = true
 
-// if the teen is 18 or older, print to the console "you may take the driving test!"
-if(teenAge > minAge){
-	//code performed if condition is true.
-	console.log("You may take the driving test!");
-}else if (teenAge > wPermitAge && permitTest = passed) {
-	//you can take the test if you have your permit
-	console.log ("if you have your permit, you can take the driving test.")
-	
-} 
-(teenAge < 18) ? console.log("you can take the driving test!") : console.log("you are not of age to obtain your license.")
-	
+if(moisturizeSkin){
+	//if skin moisturizing is true, print to console "You have smooth skin!"
+	console.log("You have smooth skin!")
+}else{
+	console.log("OMG, I am breaking out!")
+}
+
+(moisturizeSkin = false && deepMoisturizer) ? console.log("You have smooth Skin!") : console.log("OMG, I am breaking out!")
