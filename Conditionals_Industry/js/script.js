@@ -1,14 +1,17 @@
-// Industry Conditionals
+//Conditional Industry
 
-var adobeKnowledge = 75
-var minKnowledge = 50 
-var guideToAdobe = degree
+var deadlineMet = 10;
+var maxDeadline = 12;
+var submissionTime = 1;
+var approvedExtenstion = true;
 
-// in order to be a good web designer you need at least 50 in knowledge to understand what you are doing
-if(adobeKnowledge > 50){ 
-	console.log ("You will be a good web designer")
-}else if{
-	(adobeKnowledge < minKnowledge && guideToAdobe = degree) console.log("you will do okay, but you will need much practice")
-
+//if the student meets the 12 o'clock deadline, print to console "full credit for the assignment!"
+//if the deadline met is 10
+if(deadlineMet + submissionTime < maxDeadline){
+	//code performed if condition is 12
+	console.log("full credit for the assignment!");
+}else{
+	console.log("Sorry, points will be deducted")
 }
-(adobeKnowledge > minKnowledge) ? console.log("You will be a good web designer") : console.log("You need a lot more practice in order to reach your goal.")
+
+(deadlineMet && approvedExtenstion) ? console.log("full credit for the assignment") : console.log("Sorry, points will be deducted!")
