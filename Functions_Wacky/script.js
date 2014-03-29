@@ -10,4 +10,9 @@ function numOfSocks(){
 }
 
 numOfSocks(20,10);
-	var Socks
+
+
+function numOfSocks(n,p){
+	var socks = n * p
+	console.log(socks);
+}
