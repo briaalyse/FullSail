@@ -10,3 +10,4 @@ function monthsTilGraduation(){
 	console.log("You will graduate in " + monthsTilGraduation + .")
 }
 
+monthsTilGraduation();
