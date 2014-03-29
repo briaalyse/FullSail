@@ -4,5 +4,7 @@
 
 function monthsTilGraduation(){
 	//code the function runs
-	
+	var numOfCourses = 26
+	var lengthOfCourse = 1
+
 }
