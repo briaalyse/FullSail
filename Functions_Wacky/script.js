@@ -5,6 +5,9 @@
 function numOfSocks(){
 	var numOfPacks = 20;
 	var pairInPacks = 10;
-	var numOfSocks = numOfSocks * pairInPacks;
+	var Socks = numOfSocks * pairInPacks;
 	console.log(numOfSocks);
 }
+
+numOfSocks(20,10);
+	var Socks
