@@ -6,10 +6,16 @@ function monthsTilGraduation(){
 	//code the function runs
 	var numOfCourses = 26;
 	var accLengthOfCourse = 1;
-	var monthsTilGraduation = numOfCourses * accLengthOfCourse
-	console.log("You will graduate in " + monthsTilGraduation + in the accelerated program.")
+	var campLengthofCourse = 2;
+	var accMonthsTilGraduation = numOfCourses * accLengthOfCourse
+	var campusMonthsTilGraduation = numOfCourses * campLengthofCourse
+	console.log("You will graduate in " + accMonthsTilGraduation + from the accelerated program.")
 }else if{
+	console.log("You will graduate in " + campusMonthsTilGraduation + from the campus program.")
+
+	
 
 }
 
-monthsTilGraduation();
+accMonthsTilGraduation();
+campusMonthsTilGraduation(;)
