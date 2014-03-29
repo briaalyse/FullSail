@@ -2,7 +2,7 @@
 //Bria Shaw
 //March 27,2014
 
-function monthsTilGraduation(){
+function monthsTilGraduation(numOfCourses * lengthOfCourse){
 	//code the function runs
 	var numOfCourses = 26
 	var lengthOfCourse = 1
