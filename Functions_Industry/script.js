@@ -6,7 +6,7 @@ function monthsTilGraduation(){
 	//code the function runs
 	var numOfCourses = 26;
 	var lengthOfCourse = 1;
-	var monthsTilGraduation = numOfCourses * monthsTilGraduation
-	console.log(monthsTilGraduation)
+	var monthsTilGraduation = numOfCourses * lengthOfCourse
+	console.log("You will graduate in " + monthsTilGraduation + .")
 }
 
