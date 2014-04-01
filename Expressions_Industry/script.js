@@ -4,3 +4,4 @@
 
 //The balance in the account is the result of the deposits minus the withdrawals and fees
 
+var depositOfFunds = 3459;
