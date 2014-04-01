@@ -16,3 +16,17 @@ var September = Hunky
 var October = Majestic
 var November = Wet
 var December = Farmer
+
+var blue = Sunflower
+var red = Potato Head
+var green = Tall
+var orange = Tubby
+var purple = Toaster
+var yellow = Psycho
+var pink = Buttercup
+var black = Peanut
+var white = Rusty
+var gray = Buttons
+var silver = Four Eyes
+var gold = Peg Leg
+var brown = Baldy
