@@ -30,3 +30,5 @@ var gray = Buttons
 var silver = Four Eyes
 var gold = Peg Leg
 var brown = Baldy
+
+var wackyName = "Hi, my name is " + String(December) + "-" + String(black) + "!" 
