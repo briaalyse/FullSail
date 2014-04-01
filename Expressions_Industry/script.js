@@ -7,3 +7,4 @@
 var depositOfFunds = 3459;
 var withdrawalOfFunds = 2903;
 var accruedFees = 206;
+var accountBalance = depositOfFunds - withdrawalOfFunds - accruedFees;
