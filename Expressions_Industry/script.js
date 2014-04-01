@@ -6,5 +6,5 @@
 
 var depositOfFunds = 3459; //this is the sum of all of the checks and cash deposits made to the account. 
 var withdrawalOfFunds = 2903; //this is the sum of all of the cash and checks disbursed from the account. 
-var accruedFees = 206; 
+var accruedFees = 206; //this the sum of the maintenance, membership and overdraft fees taken from the account.
 var accountBalance = depositOfFunds - withdrawalOfFunds - accruedFees;
