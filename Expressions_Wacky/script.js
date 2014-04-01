@@ -16,6 +16,7 @@ var September = "Hunky";
 var October = "Majestic";
 var November = "Wet";
 var December = "Farmer";
+var birthdayMo = prompt("Enter Birthday month", December)
 
 var blue = "Sunflower";
 var red = "Potato Head";
@@ -30,6 +31,9 @@ var gray = "Buttons";
 var silver = "Four Eyes";
 var gold = "Peg Leg";
 var brown = "Baldy";
+var favColor = prompt("Enter favorit color", black)
 
-var wackyName = "Hi, my name is " + String(December) + "-" + String(black) + "!"; 
+var wackyName = "Hi, my name is " + String(birthdayMo) + "-" + String(favColor) + "!"; 
+
+
 
